@@ -1,0 +1,1 @@
+{"jsonString": "haha binghon is good", "jsonNumber": 9487, "jsonObject": {"iii": "verygood", "cc104": "03"}, "jsonArray": ["a", 5, 4, "d"], "string": "aaa", "number": 8888888350, "object": {"abc": 33355500, "just": "kidding333555000"}, "array": [35, 3506, 3507, 3508]}

@@ -1,0 +1,11 @@
+import os
+import json
+open1=open('jsontest.text','w')
+jsondata={
+	'jsonString': "hahaha binghon is good',
+	'jsonNumber': 9487,
+	'jsonObject': {'iii':"verygood", 'cc104': '03'},
+	'jsonArray': ['a',5,4 'd']
+}
+open1.write(json.dumps(jsondata))
+open1.close()
